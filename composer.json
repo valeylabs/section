@@ -1,0 +1,19 @@
+{
+  "name": "valeylabs/section",
+  "description": "Section manipulating PHP.",
+  "authors":
+  [
+    {"name": "Gabriel Malaquias", "email": "gemalaquias@gmail.com"}
+  ],
+  "keywords": ["section", "valey", "valeylabs"],
+  "license": "MIT",
+  "type": "library",
+  "autoload": {
+    "psr-0": { "Valey\\Components\\": "src" }
+  },
+  "require" : {
+    "php": ">=5.3.3"
+  },
+  "target-dir": "Valey/Components"
+
+}
